@@ -10,5 +10,5 @@ Users guide:
 -To check a item press on the name of the item then check the box to check the item.
 
 Aknowledgments:
-I consulted Tamara Bain about my project. No code was copied between our project.
+I consulted Tamara Bain about my project. No code was copied between our projects.
 Also everything that I have learned so far has been taught to me by Android Programming THE BIG NERD RANCH GUIDE by BILL PHILLIPS & BRIAN HARDY
