@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ogrocki-notes</string>
+    <string name="todo_title_hint">Enter a title for the todo.</string>
+    <string name="title_activity_todo">todoActivity</string>
+    <string name="todo_title_label">Title</string>
+    <string name="todo_details_label">Complete</string>
+    <string name="todo_solved_label">Done?</string>
+    <string name="todos_title">To Do</string>
+    <string name="new_todo">New To Do Item</string>
+    <string name="subtitle">If you see something, say something.</string>
+    <string name="delete_todo">Delete</string>
+    <string name="archive_todo">Archive/Exit Archive</string>
+    <string name="unarchive_todo">UnArchive</string>
+    <string name="email_todo">Email To Do</string>
+    <string name="archiveto_todo">Archive/Unarchive</string>
+    <string name="archive_title">Archive</string>
+	<string name="to_do_list">To Do List</string>
+	<string name="stats">Statistics</string>
+	<string name="email_all">Email All</string>
+</resources>
